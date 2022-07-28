@@ -1,0 +1,13 @@
+body{
+padding: 0;
+margin: 0;
+
+ }
+
+.container{
+		background-image: url("../img/bg-pattern-top.svg"),url("../img/bg-pattern-bottom.svg");
+		background-repeat: no-repeat;
+		min-height: 100vh;
+		
+		background-color: hsl(185, 75%, 39%);
+}
